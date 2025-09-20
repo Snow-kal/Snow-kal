@@ -1,6 +1,6 @@
 <!-- 顶部显示 -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8&height=300&&section=header&text=夜%20之%20向%20日%20葵&fontSize=90&fontAlign=50&fontAlignY=30&desc=人啊!幸福地活下去吧!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8&height=300&&section=header&text=Per%20aspera%20ad%20astra%20葵&fontSize=90&fontAlign=50&fontAlignY=30&desc=Snow-kal!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 <!-- 打字机效果 -->
