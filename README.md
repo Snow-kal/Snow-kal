@@ -29,7 +29,4 @@
 <img src="https://komarev.com/ghpvc/?username=Snow-kal&abbreviated=true" />
 
 </p>
-<!-- 底部显示 -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=footer&text=THE END&fontSize=90&fontAlign=50&fontAlignY=70&desc=THANKS FOR COMING &descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
+
