@@ -12,8 +12,8 @@
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Snow-kal&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" >
 </p>
 <!-- 贡献记录 -->
-<p align="center">
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=Snow-kal&locale=zh_Hans">
+<!-- <p align="center">
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=Snow-kal&locale=zh_Hans"> -->
 <!-- 贡献图 -->
 <br/>
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Snow-kal&theme=github-compact&hide_border=true&area=true"/>
