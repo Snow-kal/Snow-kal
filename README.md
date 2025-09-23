@@ -22,7 +22,9 @@
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Snow-kal&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Snow-kal&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> -->
 <!-- 语言比例 -->
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snow-kal&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+</P>
 <br/>
 <!-- 技术栈 -->
 <img align="center" src="https://skillicons.dev/icons?i=github,git,discord,c&theme=light" />
