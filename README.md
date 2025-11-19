@@ -33,4 +33,10 @@
 <img src="https://komarev.com/ghpvc/?username=Snow-kal&abbreviated=true" />
 
 </p>
+### Thanks for visiting ❤
 
+<div align="center">
+ 
+![Visitors](https://count.getloli.com/get/@TatsukiMengChen.gh.readme?theme=rule34) 
+
+</div>
