@@ -19,7 +19,7 @@
 <img width="1200"  src="https://github-readme-activity-graph.vercel.app/graph?username=Snow-kal&theme=github-compact&hide_border=true&area=true"/>
 <br/>
 <!-- 时长 -->
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Snow-kal&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> --> -->
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Snow-kal&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Snow-kal&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <!-- 语言比例 -->
 <p>
