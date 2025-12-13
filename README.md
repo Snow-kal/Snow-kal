@@ -22,20 +22,24 @@
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Snow-kal&theme=transparent&hide_border=true&layout=compact&langs_count=22" /> -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Snow-kal&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <!-- 语言比例 -->
-<p>
+<p align="center">
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snow-kal&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snow-kal&theme=default&layout=compact" width="40%" />
-</P>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snow-kal&theme=default&layout=compact&hide=css,html" />
+</p>
 <br/>
 <!-- 技术栈 -->
 <img align="center" src="https://skillicons.dev/icons?i=github,git,discord,c,golang,linux,react&theme=light" />
 <!-- 徽章 -->
+<br>
+<br>
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=Snow-kal&abbreviated=true" />
+</p>
 
 </p>
 
 <div align="center">
  
-![Visitors](https://count.getloli.com/get/@Sonw-kal.gh.readme?theme=rule34) 
+![Visitors](https://count.getloli.com/get/@Sonw-kal.gh.readme?theme=rule34)
 
 </div>
