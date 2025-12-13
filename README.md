@@ -28,7 +28,7 @@
 </P>
 <br/>
 <!-- 技术栈 -->
-<img align="center" src="https://skillicons.dev/icons?i=github,git,discord,c&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=github,git,discord,c,golang,linux,react&theme=light" />
 <!-- 徽章 -->
 <img src="https://komarev.com/ghpvc/?username=Snow-kal&abbreviated=true" />
 
