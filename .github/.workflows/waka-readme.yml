@@ -1,0 +1,25 @@
+name: WakaTime Readme Stats
+on:
+    # 每天自动更新（UTC时间0点，对应北京时间8点）
+    schedule:
+        - cron: "0 0 * * *"
+    # 手动触发更新（可选，方便测试）
+    workflow_dispatch:
+
+jobs:
+    update-readme:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout Repository
+              uses: actions/checkout@v4
+
+            - name: Update WakaTime Stats
+              uses: athul/waka-readme@v3
+              with:
+                  WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+                  SHOW_PROGRESS_BAR: true
+                  # 可选配置：显示最近7天的统计（默认值，可改为30天等）
+                  WAKATIME_RANGE: all_time
+
+                  PROGRESS_BAR_STYLE: block
