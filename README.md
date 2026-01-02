@@ -23,8 +23,9 @@ CSS                        7 hrs 12 mins   █▒░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!-- 贡献记录 -->
-<p align="center">
-<img align="center" width="600" src="https://streak-stats.demolab.com?user=Snow-kal&locale=en">
+ 
+<!-- <p align="center">
+<img align="center" width="600" src="https://streak-stats.demolab.com?user=Snow-kal&locale=en">  -->
 <!-- 贡献图 -->
 <br/>
 <img width="1200"  src="https://github-readme-activity-graph.vercel.app/graph?username=Snow-kal&theme=github-compact&hide_border=true&area=true"/>
