@@ -3,10 +3,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0CF7EA&random=true&width=500&height=75&lines=Per+Aspera+Ad+Astra+!">
 </p>
 
-<!-- 数据预览 -->
-<p align="center">
-<img align="center" width="700" src="https://github-readme-stats.vercel.app/api?username=Snow-kal&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" >
-</p>
+## About me
+
+🐈 Hi! guys. Nice to meet you~
+🐕‍🦺 As a beginner in CS, I hope to make progress together with everyone.
 
 <!-- WakaTime 统计 -->
 
@@ -20,30 +20,9 @@ HTML                       9 hrs 14 mins   █▓░░░░░░░░░░�
 CSS                        7 hrs 12 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
 ```
 
-<!--END_SECTION:waka-->
-
-<!-- 贡献记录 -->
- 
-<!-- <p align="center">
-<img align="center" width="600" src="https://streak-stats.demolab.com?user=Snow-kal&locale=en">  -->
-<!-- 贡献图 -->
 <br/>
 <img width="1200"  src="https://github-readme-activity-graph.vercel.app/graph?username=Snow-kal&theme=github-compact&hide_border=true&area=true"/>
 <br/>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snow-kal&theme=default&layout=compact&hide=css,html" />
-</p>
-<br/>
-
-<br>
-<br>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Snow-kal&abbreviated=true" />
-</p>
-
-</p>
 
 <div align="center">
  
