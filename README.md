@@ -11,6 +11,15 @@
 <!-- WakaTime 统计 -->
 
 <!--START_SECTION:waka-->
+
+```txt
+Go                         62 hrs 52 mins  ███████████▓░░░░░░░░░░░░░   47.00 %
+JavaScript                 18 hrs 55 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
+TypeScript                 12 hrs 10 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+HTML                       9 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
+CSS                        7 hrs 12 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- 贡献记录 -->
