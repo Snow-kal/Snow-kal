@@ -1,11 +1,6 @@
-<!-- 顶部显示 -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8&height=300&&section=header&text=Per%20aspera%20ad%20astra&fontSize=90&fontAlign=50&fontAlignY=30&desc=Snow-kal!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
-
 <!-- 打字机效果 -->
 <P align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0CF7EA&random=true&width=500&height=75&lines=Hi!+I+am+Snow-kal">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0CF7EA&random=true&width=500&height=75&lines=Per+Aspera+Ad+Astra">
 </p>
 <!-- 数据预览 -->
 <p align="center">
