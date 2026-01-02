@@ -5,8 +5,9 @@
 
 ## About me
 
-🐈 Hi! guys. Nice to meet you~
-🐕‍🦺 As a beginner in CS, I hope to make progress together with everyone.
+### 🐈 Hi! guys. Nice to meet you~
+
+### 🐕‍🦺 As a beginner in CS, I hope to make progress together with everyone.
 
 <!-- WakaTime 统计 -->
 
