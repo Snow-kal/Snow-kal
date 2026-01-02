@@ -7,6 +7,12 @@
 <p align="center">
 <img align="center" width="700" src="https://github-readme-stats.vercel.app/api?username=Snow-kal&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" >
 </p>
+
+<!-- WakaTime 统计 -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- 贡献记录 -->
 <p align="center">
 <img align="center" width="600" src="https://streak-stats.demolab.com?user=Snow-kal&locale=en">

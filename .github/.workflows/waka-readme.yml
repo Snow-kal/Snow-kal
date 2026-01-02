@@ -6,6 +6,9 @@ on:
     # 手动触发更新（可选，方便测试）
     workflow_dispatch:
 
+permissions:
+    contents: write
+
 jobs:
     update-readme:
         runs-on: ubuntu-latest
@@ -17,9 +20,10 @@ jobs:
               uses: athul/waka-readme@v3
               with:
                   WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+                                    GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
                   SHOW_PROGRESS_BAR: true
                   # 可选配置：显示最近7天的统计（默认值，可改为30天等）
-                  WAKATIME_RANGE: all_time
+                  WAKATIME_RANGE: last_7_days
 
                   PROGRESS_BAR_STYLE: block
