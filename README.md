@@ -1,6 +1,6 @@
 <!-- 打字机效果 -->
 <P align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0CF7EA&random=true&width=500&height=75&lines=++Per+Aspera+Ad+Astra+!">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0CF7EA&random=true&width=500&height=75&lines=     ++Per+Aspera+Ad+Astra+!">
 </p>
 
 <!-- 数据预览 -->
