@@ -1,9 +1,9 @@
 name: WakaTime Readme Stats
 
 "on":
-    # 每天自动更新（UTC 时间 0 点，对应北京时间 8 点）
+    # 每 5 天自动更新一次（UTC 时间 0 点，对应北京时间 8 点）
     schedule:
-        - cron: "0 0 * * *"
+        - cron: "0 0 */5 * *"
     # 手动触发更新（可选，方便测试）
     workflow_dispatch:
 
@@ -29,3 +29,5 @@ jobs:
                   STOP_AT_OTHER: true
                   # 进度条字符样式（块状）
                   BLOCKS: ░▒▓█
+                  # 保持 README 中 txt 代码块样式
+                  CODE_LANG: txt
